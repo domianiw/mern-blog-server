@@ -1,5 +1,5 @@
 import multer from 'multer';
-import fs from 'fs   ';
+import fs from 'fs';
 
 //multer - загрузка картинок
 const storage = multer.diskStorage({
